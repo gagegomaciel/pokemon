@@ -22,8 +22,9 @@
 ## Inicialização do projeto
 
 - Baixar o repositório localmente no desktop `git clone https://github.com/gagegomaciel/pokemon.git`
+- Acessar a pagina no projeto
 - Executar o comando `yarn`
-- Depois que todas as dependecias forem instaladas, Acesse a pasta do projeto e executar o comando `yarn start`
+- Depois que todas as dependecias forem instaladas, dentro da pasta do projeto, executar o comando `yarn start`
 
 ### APIs utilizadas
 
