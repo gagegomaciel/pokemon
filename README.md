@@ -19,10 +19,15 @@
 - Css3
 - HTML
 
+## Pré requisitos
+
+- Instalar o nodeJS
+- Instalar o npm ou yarn
+
 ## Inicialização do projeto
 
 - Baixar o repositório localmente no desktop `git clone https://github.com/gagegomaciel/pokemon.git`
-- Acessar a pagina no projeto
+- Acessar a pasta do projeto
 - Executar o comando `yarn`
 - Depois que todas as dependecias forem instaladas, dentro da pasta do projeto, executar o comando `yarn start`
 
